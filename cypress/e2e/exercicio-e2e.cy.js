@@ -69,4 +69,4 @@ describe('Funcionalidade: Efetuar compra no site ebac', () => {
         cy.get('.page-title').should('contain', 'Pedido recebido')
 
     });
-}); 
+});

@@ -9,5 +9,5 @@ module.exports = defineConfig({
     viewportWidth: 1920, // Largura da tela
     viewportHeight: 1080  // Altura da tela
   },
-}); 
+});
   
