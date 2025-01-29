@@ -65,8 +65,8 @@ describe('Funcionalidade: Efetuar compra no site ebac', () => {
         cy.get('#billing_phone').clear().type(dadosUsuario.phone);
         cy.get('#billing_email').clear().type(dadosUsuario.email);
         cy.get('#terms').check();
-        //cy.get('#place_order').click();
-        //cy.get('.page-title').should('contain', 'Pedido recebido')
+        cy.get('#place_order').click();
+        cy.get('.page-title').should('contain', 'Pedido recebido')
 
     });
 });
