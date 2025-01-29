@@ -1,4 +1,11 @@
 {
-  "usuario": "aluno_ebac@teste.com",
-  "senha": "teste@teste.com"
-}
+  "login": "aluno_ebac@teste.com",
+  "password": "teste@teste.com",
+  "name": "Uliana",
+  "lastName": "Uliana",
+  "address": "Rua dos Bolos, 11",
+  "city": "São Paulo",
+  "postCode": "12345-678",
+  "phone": "11999999999",
+  "email": "aluno_ebac@teste.com"
+} 
