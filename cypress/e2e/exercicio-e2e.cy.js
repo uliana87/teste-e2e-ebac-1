@@ -31,7 +31,7 @@ describe('Funcionalidade: Efetuar compra no site ebac', () => {
                 dados[0].cor,
                 dados[1].quantidade
             );
-            //cy.get('.woocommerce-message').should('contain', dados[1].nomeProduto);
+
             produtosPage.buscarProduto(dados[1].nomeProduto);
             produtosPage.addProdutoCarrinho(
                 dados[1].tamanho,

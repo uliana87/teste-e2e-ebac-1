@@ -10,3 +10,4 @@ module.exports = defineConfig({
     viewportHeight: 1080  // Altura da tela
   },
 });
+  

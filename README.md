@@ -21,7 +21,7 @@ git clone https://github.com/EBAC-QE/teste-e2e-ebac.git
 ```
 cd teste-e2e-ebac
 ```
-
+ 
 #### Para instalar as dependencias:
 ```
 npm install 
