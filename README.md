@@ -25,7 +25,7 @@ cd teste-e2e-ebac
 #### Para instalar as dependencias:
 ```
 npm install 
-```
+``` 
 
 #### Para executar em moodo Headlesss via console:
 ```

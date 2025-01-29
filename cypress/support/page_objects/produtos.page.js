@@ -15,4 +15,4 @@ class ProdutosPage {
     }
 }
 
-export default new ProdutosPage()  
+export default new ProdutosPage()   
